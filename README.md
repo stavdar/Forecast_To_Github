@@ -2,12 +2,12 @@
 
 Welcome!
 
-This repository represents a collaborative project developed by both myself and [Nogatiya](https://github.com/Nogatiya), focusing on time series forecasting using Python and Jupyter Notebook.
+This repository represents a collaborative project developed by both myself and [Nogatiya](https://github.com/Nogatiya), focusing on time series forecasting using Python and JupyterLab.
 
 ## 🧠 Project Highlights
 
 - 📈 Time series forecasting techniques  
-- 🐍 Python implementation in Jupyter Notebook  
+- 🐍 Python implementation in JupyterLab  
 - 📊 Real-world data analysis  
 
 The notebook was uploaded by my teammate and is available here:
